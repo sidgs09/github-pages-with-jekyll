@@ -4,4 +4,4 @@ title: "Welcome to my personal website"
 
 I'm glad you are here. I plan to talk about my accomplishments, hobbies, and future plans. 
 
-!(https://drive.google.com/file/d/16TFcMXVGgQfhvB7654YutH18MrNqo6L2/view?usp=sharing)
+![IMG_20220320_181008_955](https://user-images.githubusercontent.com/107126820/173162510-5fdca663-1b9d-4e94-ba76-fdef438a136d.jpg)
