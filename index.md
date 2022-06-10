@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my personal website"
 ---
 
-I'm glad you are here. I plan to talk about my accomplishments throughout my high school career. 
+I'm glad you are here. I plan to talk about my accomplishments, hobbies, and future plans. 
